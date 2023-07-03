@@ -1,0 +1,30 @@
+#Home{
+    padding-top: 15vh; 
+}
+.title{
+    font-size: 5rem;
+    font-family: 'Caveat', cursive;
+}
+.home-content{
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.listTitle{
+    color:#22423D;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    margin: auto;
+}
+.listContent{
+    color:#22423D;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight:light;
+    margin: auto;
+}
+.BoldContent{
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+}
